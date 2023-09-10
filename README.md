@@ -1,5 +1,3 @@
-# jobpreparation
-
 # Bienvenido a mi perfil de GitHub 👋
 
 ¡Hola! Soy José Alfredo Muñoz Velasco, un apasionado de la programación y la tecnología. En este repositorio encontrarás una variedad de proyectos en los que he estado trabajando. Siéntete libre de explorar, contribuir o contactarme si tienes alguna pregunta o sugerencia.
