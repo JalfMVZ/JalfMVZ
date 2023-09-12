@@ -17,14 +17,21 @@ Aquí hay algunos de los proyectos en los que he estado trabajando recientemente
 
 ## Habilidades
 
-- 💻 HTML: Tengo experiencia en la creación de páginas web y la estructura de contenido utilizando HTML.
-- 🌐 Tailwind CSS: Soy competente en el uso de Tailwind CSS para diseñar y estilizar interfaces de usuario de manera eficiente.
-- 🔧 JavaScript: He trabajado extensamente con JavaScript para crear aplicaciones web interactivas y dinámicas.
-- 🔧 Redux: Tengo experiencia en la gestión del estado de la aplicación utilizando Redux, lo que mejora la escalabilidad y el mantenimiento del código.
-- 🔧 ReactJS: Soy hábil en el desarrollo de aplicaciones front-end utilizando ReactJS, una biblioteca poderosa y popular de JavaScript.
-- 🔧 Express: He utilizado Express.js para crear servidores web y API REST de manera rápida y eficiente.
-- 🔧 MongoDB: Tengo experiencia en la creación de bases de datos NoSQL utilizando MongoDB.
-- 🔧 PostgreSQL: He trabajado con PostgreSQL para crear y gestionar bases de datos relacionales.
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Contacto
 
