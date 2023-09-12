@@ -31,7 +31,7 @@ Aquí hay algunos de los proyectos en los que he estado trabajando recientemente
 Si deseas contactarme, puedes hacerlo a través de:
 
 - 📧 Correo Electrónico: velascojosealfredo1@gmail.com.
-- 🔗 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-mu%C3%B1oz-81a118276/
+- 🔗 LinkedIn: https://www.linkedin.com/in/josemvz
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y te animes a colaborar o contactarme para cualquier consulta.
 
