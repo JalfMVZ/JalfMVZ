@@ -1,22 +1,22 @@
 # Bienvenido a mi perfil de GitHub 👋
- 
+
 ¡Hola! Soy José Alfredo Muñoz Velasco, un apasionado de la programación y la tecnología. En este repositorio encontrarás una variedad de proyectos en los que he estado trabajando. Siéntete libre de explorar, contribuir o contactarme si tienes alguna pregunta o sugerencia.
- 
+
 ## Acerca de mí
- 
+
 - 🌍 Soy de Perú
 - 💼 Actualmente estoy estudiando varias tecnologias para mejorar mi conocimiento
 - 🎓 Graduado en Full Stack Developer
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en Base de Datos y varios Frameworks
- 
+
 ## Mis Proyectos Destacados
- 
+
 Aquí hay algunos de los proyectos en los que he estado trabajando recientemente:
- 
+
 - 🚀Haziel Cleaning (https://hazielcleaning.com/)
- 
+
 ## Habilidades
- 
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)&nbsp;
 ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
@@ -33,15 +33,15 @@ Aquí hay algunos de los proyectos en los que he estado trabajando recientemente
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
- 
+
 ## Contacto
- 
+
 Si deseas contactarme, puedes hacerlo a través de:
 
-📧 Correo Electrónico: velascojosealfredo1@gmail.com
-🔗 LinkedIn
-🌐 Portfolio
+- 📧 Correo Electrónico: velascojosealfredo1@gmail.com.
+- 🔗 LinkedIn: https://www.linkedin.com/in/josemvz
+- 💼 Portafolio: https://benevolent-pastelito-8d9eea.netlify.app/
+
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y te animes a colaborar o contactarme para cualquier consulta.
 
 Happy coding! 🚀
-
