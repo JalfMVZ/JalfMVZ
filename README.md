@@ -9,12 +9,6 @@
 - 🎓 Graduado en Full Stack Developer
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en Base de Datos y varios Frameworks
 
-## Mis Proyectos Destacados
-
-Aquí hay algunos de los proyectos en los que he estado trabajando recientemente:
-
-- 🚀Haziel Cleaning (https://hazielcleaning.com/)
-
 ## Habilidades
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
