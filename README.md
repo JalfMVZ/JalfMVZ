@@ -6,7 +6,6 @@
 
 - 🌍 Soy de Perú
 - 💼 Actualmente estoy estudiando varias tecnologias para mejorar mi conocimiento
-- 🎓 Graduado en Full Stack Developer
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades
 
 ## Habilidades
