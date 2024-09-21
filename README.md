@@ -41,9 +41,16 @@ Soy un apasionado desarrollador de Perú, constantemente explorando nuevas tecno
 
 ### 📊 Estadísticas de GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JalfMVZ&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalfMVZ&layout=compact&theme=dark)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=JalfMVZ&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalfMVZ&layout=compact&theme=dark" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 ### 📫 Contacto
 
