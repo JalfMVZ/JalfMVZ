@@ -1,40 +1,65 @@
-# Bienvenido a mi perfil de GitHub 👋
+# José Alfredo Muñoz Velasco 👨‍💻
 
-¡Hola! Soy José Alfredo Muñoz Velasco, un apasionado de la programación y la tecnología. En este repositorio encontrarás una variedad de proyectos en los que he estado trabajando. Siéntete libre de explorar, contribuir o contactarme si tienes alguna pregunta o sugerencia.
+[![GitHub followers](https://img.shields.io/github/followers/JaflMVZ?label=Follow&style=social)](https://github.com/JaflMVZ)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemvz)](https://www.linkedin.com/in/josemvz)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=react&logoColor=white&link=https://benevolent-pastelito-8d9eea.netlify.app/)](https://benevolent-pastelito-8d9eea.netlify.app/)
 
-## Acerca de mí
+## 👋 ¡Bienvenido a mi perfil de GitHub!
 
-- 🌍 Soy de Perú
-- 💼 Actualmente estoy estudiando varias tecnologias para mejorar mi conocimiento
-- 🌱 Siempre estoy aprendiendo y mejorando mis habilidades
+Soy un apasionado desarrollador de Perú, constantemente explorando nuevas tecnologías y mejorando mis habilidades. Me encanta crear soluciones innovadoras y colaborar en proyectos emocionantes.
 
-## Habilidades
+### 🚀 Sobre mí
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)&nbsp;
-![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=SASS)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- 🌍 Originario de Perú
+- 🎓 Actualmente estudiando diversas tecnologías para ampliar mis conocimientos
+- 💡 Siempre buscando aprender y crecer como desarrollador
+- 🌱 Entusiasta del código abierto y la colaboración
 
-## Contacto
+### 💼 Habilidades Técnicas
 
-Si deseas contactarme, puedes hacerlo a través de:
+#### Lenguajes de Programación:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
-- 📧 Correo Electrónico: velascojosealfredo1@gmail.com.
-- 🔗 LinkedIn: https://www.linkedin.com/in/josemvz
-- 💼 Portafolio: https://benevolent-pastelito-8d9eea.netlify.app/
+#### Tecnologías:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y te animes a colaborar o contactarme para cualquier consulta.
+### 📊 Estadísticas de GitHub
 
-Happy coding! 🚀
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JalfMVZ&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalfMVZ&layout=donut-vertical)](https://github.com/JalfMVZ/github-readme-stats)
+
+### 📫 Contacto
+
+- 📧 Email: velascojosealfredo1@gmail.com
+- 🔗 LinkedIn: [josemvz](https://www.linkedin.com/in/josemvz)
+- 💼 Portfolio: [Mi Sitio Web](https://benevolent-pastelito-8d9eea.netlify.app/)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JaflMVZ&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+</div>
+
+<div align="center">
+  
+  **¡Gracias por visitar mi perfil! 😊**
+  
+  ![Coding Gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+</div>
