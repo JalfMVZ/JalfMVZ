@@ -1,6 +1,6 @@
 # José Alfredo Muñoz Velasco 👨‍💻
 
-[![GitHub followers](https://img.shields.io/github/followers/JaflMVZ?label=Follow&style=social)](https://github.com/JaflMVZ)
+[![GitHub followers](https://img.shields.io/github/followers/JalfMVZ?label=Follow&style=social)](https://github.com/JalfMVZ)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemvz)](https://www.linkedin.com/in/josemvz)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=react&logoColor=white&link=https://benevolent-pastelito-8d9eea.netlify.app/)](https://benevolent-pastelito-8d9eea.netlify.app/)
 
@@ -43,7 +43,7 @@ Soy un apasionado desarrollador de Perú, constantemente explorando nuevas tecno
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JalfMVZ&show_icons=true&theme=dark)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalfMVZ&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JalfMVZ&layout=compact&theme=dark)
 
 ### 📫 Contacto
 
@@ -54,7 +54,7 @@ Soy un apasionado desarrollador de Perú, constantemente explorando nuevas tecno
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaflMVZ&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
+  <img src="https://komarev.com/ghpvc/?username=JalfMVZ&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </div>
 
 <div align="center">
