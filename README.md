@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/JalfMVZ?label=Follow&style=social)](https://github.com/JalfMVZ)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josemvz)](https://www.linkedin.com/in/josemvz)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=react&logoColor=white&link=https://benevolent-pastelito-8d9eea.netlify.app/)](https://benevolent-pastelito-8d9eea.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=react&logoColor=white&link=https://benevolent-pastelito-8d9eea.netlify.app/)](https://portfolio-jmvz.vercel.app/)
 
 ## 👋 ¡Bienvenido a mi perfil de GitHub!
 
