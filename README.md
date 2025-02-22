@@ -56,7 +56,7 @@ Soy un apasionado desarrollador de Perú, constantemente explorando nuevas tecno
 
 - 📧 Email: velascojosealfredo1@gmail.com
 - 🔗 LinkedIn: [josemvz](https://www.linkedin.com/in/josemvz)
-- 💼 Portfolio: [Mi Sitio Web](https://benevolent-pastelito-8d9eea.netlify.app/)
+- 💼 Portfolio: [Mi Sitio Web](https://portfolio-jmvz.vercel.app/)
 
 ---
 
