@@ -43,8 +43,8 @@ Mi enfoque combina diseño limpio, buenas prácticas de arquitectura y una pasi�
 
 ## 🌐 Idiomas
 
-- Español (Nativo)  
-- Inglés (Intermedio-Avanzado)
+- Español  
+- Inglés
 
 ---
 
