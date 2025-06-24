@@ -9,7 +9,7 @@
 ## 👋 ¡Hola! Bienvenido a mi perfil de GitHub
 
 Soy **José Alfredo Muñoz Velasco**, desarrollador Full Stack con experiencia construyendo soluciones escalables, seguras y eficientes.  
-Soy **fundador de [Clarity Wallet](https://github.com/Clarity-Wallet)**, una plataforma centrada en la transparencia financiera personal y empresarial.  
+Soy **fundador de [WallyFit](https://github.com/Clarity-Wallet)**, una plataforma centrada en la transparencia financiera personal y empresarial.  
 Mi enfoque combina diseño limpio, buenas prácticas de arquitectura y una pasión constante por la mejora continua.
 
 ---
